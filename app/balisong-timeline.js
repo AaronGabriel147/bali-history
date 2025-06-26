@@ -47,7 +47,7 @@ const timelineData = [
   {
     title: "Cold Steel",
     model: "Arc Angel",
-    period: "2000s",
+    period: "2000",
     location: "Ventura, California, USA",
   },
   {
@@ -59,11 +59,11 @@ const timelineData = [
   {
     title: "Bradley Cutlery",
     model: "Kimura Series",
-    period: "2009–Early 2010s",
+    period: "2009",
     location: "South Bend, Indiana, USA",
   },
   {
-    title: "BladeRunnerS Systems (BRS)",
+    title: "BRS",
     model: "Alpha Beast, Replicant",
     period: "2012",
     location: "USA",
