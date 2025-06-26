@@ -1,4 +1,5 @@
 import Header from "./Header";
+import Footer from "./Footer";
 import styles from "./balisong-timeline.module.css";
 
 const timelineData = [

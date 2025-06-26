@@ -1,4 +1,5 @@
 import Header from "./Header";
+import Footer from "./Footer";
 import BalisongTimeline from "./balisong-timeline";
 import Image from "next/image";
 import styles from "./page.module.css";
@@ -13,6 +14,7 @@ export default function Home() {
           <BalisongTimeline />
         </div>
       </div>
+      <Footer />
     </>
   );
 }
