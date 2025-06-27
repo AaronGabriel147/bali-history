@@ -76,14 +76,14 @@ const timelineData = [
   },
   {
     title: "BRS",
-    model: "Matt Cook Prototype (2010), Alpha Beast (2012), Replicant (2014), the era of flipper focused balisongs begins",
+    model: "Matt Cook Prototype (2010), Alpha Beast (2012), Replicant (2014), the era of flipper focused balisongs begins.",
     period: "2012",
     location: "East Coast USA",
     image: "/images/brs.png"
   },
   {
     title: "Squid Industries",
-    model: "Squidtrainer (2016), Krake Raken (2019), Tsunami (2021), the era of plastic and aluminum balisongs begins",
+    model: "Squidtrainer (2016), Krake Raken (2019), Tsunami (2021), the era of plastic and aluminum balisongs begins.",
     period: "2016",
     location: "Bay Area, California",
     image: "/images/squid-industries.png"
