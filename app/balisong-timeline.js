@@ -15,7 +15,7 @@ const timelineData = [
     title: "Traditional Filipino Makers",
     model: "Veinte y nueve",
     period: "Early 1900s",
-    location: "Taal, Batangas, Philippines",
+    location: "Batangas, Philippines",
     image: "/images/filipino-makers.png"
   },
   {
