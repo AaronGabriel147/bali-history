@@ -26,7 +26,7 @@ const timelineData = [
     image: "/images/balisong-inc.jpg"
   },
   {
-    title: "Pacific Cutlery Corp.",
+    title: "Pacific Cutlery Corp",
     model: "Various stainless steel balisongs",
     period: "Early 1980s–1987",
     location: "Hollywood, California",
@@ -48,14 +48,14 @@ const timelineData = [
   },
   {
     title: "Microtech",
-    model: "Tachyon / Tachyon II (the era of titanium balisongs )",
-    period: "2000 / 2012",
+    model: "Tachyon I (2000) Tachyon II (2010), The era of titanium balisongs.",
+    period: "2000",
     location: "Vero Beach, FL & Fletcher, NC",
     image: "/images/microtech.png"
   },
   {
     title: "Cold Steel",
-    model: "Arc Angel (titanium",
+    model: "Arc Angel (titanium)",
     period: "2000",
     location: "Ventura, California",
     image: "/images/cold-steel.png"
