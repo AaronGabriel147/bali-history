@@ -13,7 +13,7 @@ const timelineData = [
   },
   {
     title: "Traditional Filipino Makers",
-    model: "Veinte y nueve",
+    model: "",
     period: "Early 1900s",
     location: "Batangas, Philippines",
     image: "/images/filipino-makers.png"
@@ -34,35 +34,35 @@ const timelineData = [
   },
   {
     title: "Benchmade",
-    model: "4x Series (first titanium balisong in 2000)",
+    model: "4x Series, first titanium balisong in 2000 (BM42)",
     period: "1988",
     location: "Oregon City, Oregon",
     image: "/images/benchmade.jpg"
   },
   {
     title: "Bear MGC /Bear & Son Cutlery",
-    model: "114, 517, etc.",
+    model: "Stainless steel balisongs",
     period: "1990's",
     location: "Jacksonville, Alabama",
     image: "/images/bear-son.png"
   },
   {
     title: "Microtech",
-    model: "Tachyon / Tachyon II",
+    model: "Tachyon / Tachyon II (the era of titanium balisongs )",
     period: "2000 / 2012",
     location: "Vero Beach, FL & Fletcher, NC",
     image: "/images/microtech.png"
   },
   {
     title: "Cold Steel",
-    model: "Arc Angel",
+    model: "Arc Angel (titanium",
     period: "2000",
     location: "Ventura, California",
     image: "/images/cold-steel.png"
   },
   {
     title: "HOM Design",
-    model: "Basilisk",
+    model: "Basilisk (titanium)",
     period: "2007",
     location: "Albertson, New York",
     image: "/images/hom-design.png"
@@ -76,14 +76,14 @@ const timelineData = [
   },
   {
     title: "BRS",
-    model: "Matt Cook Prototype (2010), Alpha Beast (2012), Replicant (2014)",
+    model: "Matt Cook Prototype (2010), Alpha Beast (2012), Replicant (2014), the era of flipper focused balisongs begins",
     period: "2012",
     location: "East Coast USA",
     image: "/images/brs.png"
   },
   {
     title: "Squid Industries",
-    model: "Squidtrainer (2016), Krake Raken (2019), Tsunami (2021)",
+    model: "Squidtrainer (2016), Krake Raken (2019), Tsunami (2021), the era of plastic and aluminum balisongs begins",
     period: "2016",
     location: "Bay Area, California",
     image: "/images/squid-industries.png"
