@@ -42,7 +42,7 @@ const timelineData = [
   {
     title: "Bear MGC /Bear & Son Cutlery",
     model: "114, 517, etc.",
-    period: "1991",
+    period: "1990's",
     location: "Jacksonville, Alabama, USA",
     image: "/images/bear-son.png"
   },
