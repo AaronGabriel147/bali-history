@@ -29,7 +29,7 @@ const timelineData = [
     title: "Pacific Cutlery Corp.",
     model: "Various stainless steel balisongs",
     period: "Early 1980s–1987",
-    location: "Southern California, USA",
+    location: "Hollywood California, USA",
     image: "/images/pacific-cutlery.jpg"
   },
   {
