@@ -8,7 +8,7 @@ const timelineData = [
     title: "French Precursors",
     model: "Pied-du-Roi / Balisong-like knives",
     period: "1710–1800s",
-    location: "Thiers, Paris, France",
+    location: "Paris, France",
     image: "/images/french-precursors.jpg"
   },
   {
