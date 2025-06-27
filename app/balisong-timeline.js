@@ -78,7 +78,7 @@ const timelineData = [
     title: "BRS",
     model: "Matt Cook Prototype (2010), Alpha Beast (2012), Replicant (2014)",
     period: "2012",
-    location: "East CoastUSA",
+    location: "East Coast USA",
     image: "/images/brs.png"
   },
   {
