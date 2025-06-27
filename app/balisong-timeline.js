@@ -76,16 +76,16 @@ const timelineData = [
   },
   {
     title: "BRS",
-    model: "Alpha Beast, Replicant",
+    model: "Matt Cook Prototype (2010), Alpha Beast (2012), Replicant (2014)",
     period: "2012",
-    location: "USA",
+    location: "East CoastUSA",
     image: "/images/brs.png"
   },
   {
     title: "Squid Industries",
-    model: "Squidtrainer, Krake Raken",
-    period: "2016 / 2019",
-    location: "USA",
+    model: "Squidtrainer (2016), Krake Raken (2019), Tsunami (2021)",
+    period: "2016",
+    location: "Bay Area California",
     image: "/images/squid-industries.png"
   },
 ];
