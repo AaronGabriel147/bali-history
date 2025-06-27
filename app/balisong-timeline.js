@@ -22,14 +22,14 @@ const timelineData = [
     title: "Bali-Song, Inc.",
     model: "Model 68",
     period: "1979–Early 1980s",
-    location: "California, USA",
+    location: "Southern California, USA",
     image: "/images/balisong-inc.jpg"
   },
   {
     title: "Pacific Cutlery Corp.",
     model: "Various",
     period: "Early 1980s–1987",
-    location: "California, USA",
+    location: "Southern California, USA",
     image: "/images/pacific-cutlery.jpg"
   },
   {
