@@ -21,14 +21,14 @@ const timelineData = [
   {
     title: "Bali-Song, Inc.",
     model: "Model 68",
-    period: "1979–Early 1980s",
+    period: "1979–1983",
     location: "Los Angeles, California",
     image: "/images/balisong-inc.jpg"
   },
   {
     title: "Pacific Cutlery Corp",
     model: "Various stainless steel balisongs",
-    period: "Early 1980s–1987",
+    period: "Early 1983–1987",
     location: "Hollywood, California",
     image: "/images/pacific-cutlery.jpg"
   },
@@ -78,7 +78,7 @@ const timelineData = [
     title: "BRS",
     model: "Matt Cook Prototype (2010), Alpha Beast (2012), Replicant (2014), the era of flipper focused balisongs begins.",
     period: "2012",
-    location: "East Coast USA",
+    location: "Maine USA",
     image: "/images/brs.png"
   },
   {
